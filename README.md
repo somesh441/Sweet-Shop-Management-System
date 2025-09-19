@@ -111,10 +111,57 @@ Error Resolution: AI helped debug authentication and CORS issues
 Documentation: README and code comments generated with AI
 
 ## AI Tools Used
+
 Claude Sonnet 4: Primary AI assistant for code generation and debugging
 
 GitHub Copilot: Code completion and suggestions
 
 ChatGPT: Alternative AI for problem-solving
+
+---
+## Key API Endpoints
+
+POST /api/register/ - User registration
+
+POST /api/login/ - User login
+
+GET /api/sweets/simple/ - Get all sweets
+
+POST /api/sweets/<id>/purchase/ - Purchase a sweet
+
+GET /api/purchases/user/ - User's purchase history
+
+---
+## Reflection on AI Impact
+
+**Positive Impacts**
+
+Rapid Prototyping: AI enabled quick creation of full-stack application
+
+Learning Acceleration: AI explanations helped understand complex concepts
+
+Bug Resolution: AI quickly identified and fixed authentication issues
+
+Code Quality: AI-generated code followed best practices
+
+**Challenges Faced**
+
+Authentication Complexity: JWT setup required multiple iterations
+
+CORS Configuration: Cross-origin issues needed careful debugging
+
+Type Handling: Decimal/float type mismatches in purchase calculations
+
+Component Structure: React component organization needed refinement
+
+**Lessons Learned**
+
+AI as Assistant: AI is most effective when used as a collaborative tool
+
+Iterative Development: Multiple iterations often needed for complex features
+
+Testing Importance: TDD helps catch issues early in AI-assisted development
+
+Documentation: Clear documentation crucial when working with AI-generated code
 
 ---
