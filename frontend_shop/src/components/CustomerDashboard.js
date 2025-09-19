@@ -734,11 +734,12 @@ const CustomerDashboard = () => {
         )}
 
         {activeSection === 'profile' && (
-          <div className="text-center mt-5">
-            <h4>Profile</h4>
-            <p className="text-muted">Profile settings will appear here</p>
-          </div>
-        )}
+  <div className="text-center mt-5 profile-section">
+    <h4 className="profile-title">Profile</h4>
+    <p className="profile-subtitle">Profile settings will appear here</p>
+  </div>
+)}
+
       </div>
     </div>
   );
