@@ -63,6 +63,8 @@ Image Upload: Store product images in backend media folder
 
 **Register Page**
 
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/39960adc72cdc82cd35a1176964f302ef32d9972/screenshot2.jpg/REGISTER.png)
+
 **Customer Page**
 
 ![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/main1.png)
