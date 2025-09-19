@@ -1,0 +1,26 @@
+ 
+
+.welcome-text h1 {
+  font-family: 'Pacifico', cursive;  
+  font-size: 4rem;                   
+  color: #af1305;                    
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Subline styling */
+.welcome-text p {
+  font-family: 'Roboto', sans-serif; 
+  font-size: 1.8rem;                 
+  color: #0f0202;                        
+  letter-spacing: 1px;
+  margin-bottom: 50px;
+}
+
+/* Optional gradient effect on headline */
+.welcome-text h1.gradient {
+  background: linear-gradient(135deg, #ded114, #d2e009);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
