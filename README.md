@@ -57,8 +57,27 @@ Image Upload: Store product images in backend media folder
 
 ---
 ## Screenshots:
+**Welcome page**
 
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/login.png)
 
+**Register Page**
+
+**Customer Page**
+
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/main1.png)
+
+**Listed Products**
+
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/main2.png)
+
+**Backend Page**
+
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/ss1.png)
+
+**Backend page**
+
+![image](https://github.com/somesh441/Sweet-Shop-Management-System/blob/4bb29ce50f628a62fd3651638500e8c14638541c/screenshot2.jpg/ss2.png)
 ---
 ## Setup
 **Backend**
