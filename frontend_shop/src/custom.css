@@ -1,0 +1,127 @@
+
+body {
+  background-image: url('Gemini_Generated_Image_uqmywouqmywouqmy.png'); 
+  background-position: center;  
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background-size: cover;
+  
+}
+
+
+
+.navbar {
+  background-color: #cac5c6 !important; 
+}
+
+.navbar-brand, .nav-link {
+  color: #4a2c2a !important; 
+  font-weight: 600;
+}
+
+
+.btn-primary {
+  background-color: #1c010e !important; 
+  border-color: #ff69b4 !important;
+  border-radius: 12px;
+}
+
+.btn-primary:hover {
+  background-color: #200112 !important; 
+  border-color: #ff1493 !important;
+}
+
+
+.card {
+  border-radius: 16px;
+  box-shadow: 0px 4px 12px rgba(232, 224, 230, 0.1);
+  border: none;
+}
+
+.card-title {
+  color: #12074f; 
+  font-weight: 700;
+}
+
+
+
+.sidebar {
+  background-color: #ffdee9 !important; 
+  min-height: 100vh;
+  padding: 20px 10px;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+}
+
+
+.sidebar h2, 
+.sidebar h3, 
+.sidebar p {
+  color: #4a2c2a; 
+  font-weight: 600;
+}
+
+
+.sidebar a, 
+.sidebar .nav-link {
+  display: block;
+  color: #4a2c2a !important;
+  background-color: transparent !important;
+  border-radius: 8px;
+  margin: 6px 0;
+  padding: 10px 14px;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+
+.sidebar a:hover, 
+.sidebar .nav-link.active {
+  background-color: #ff69b4 !important; 
+  color: #fff !important;
+}
+
+
+.sidebar .logout {
+  color: #d32f2f !important; 
+  font-weight: 600;
+  margin-top: 20px;
+}
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.2s ease;
+}
+.card-sweet {
+  background-color: #00070e; 
+  border-radius: 10px;        
+  border: 5px solid #3c1c1c;  
+}
+
+.login-input {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #fffbe6;
+  color: #333;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.login-button {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  background-color: #ff6f61;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+}
+
+.login-button:hover {
+  background-color: #ff4c3b;
+}
